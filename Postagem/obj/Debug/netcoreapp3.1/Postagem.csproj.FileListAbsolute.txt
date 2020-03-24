@@ -1,0 +1,11 @@
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 9\Excercicios\Postagem\Postagem\bin\Debug\netcoreapp3.1\Postagem.exe
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 9\Excercicios\Postagem\Postagem\bin\Debug\netcoreapp3.1\Postagem.deps.json
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 9\Excercicios\Postagem\Postagem\bin\Debug\netcoreapp3.1\Postagem.runtimeconfig.json
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 9\Excercicios\Postagem\Postagem\bin\Debug\netcoreapp3.1\Postagem.runtimeconfig.dev.json
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 9\Excercicios\Postagem\Postagem\bin\Debug\netcoreapp3.1\Postagem.dll
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 9\Excercicios\Postagem\Postagem\bin\Debug\netcoreapp3.1\Postagem.pdb
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 9\Excercicios\Postagem\Postagem\obj\Debug\netcoreapp3.1\Postagem.csprojAssemblyReference.cache
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 9\Excercicios\Postagem\Postagem\obj\Debug\netcoreapp3.1\Postagem.AssemblyInfoInputs.cache
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 9\Excercicios\Postagem\Postagem\obj\Debug\netcoreapp3.1\Postagem.AssemblyInfo.cs
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 9\Excercicios\Postagem\Postagem\obj\Debug\netcoreapp3.1\Postagem.dll
+F:\Cursos em Andamento\Udemy - C# Completo 2019 - Nélio Alves\Seção 9\Excercicios\Postagem\Postagem\obj\Debug\netcoreapp3.1\Postagem.pdb
